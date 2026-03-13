@@ -21,10 +21,10 @@
 	
 	
 	<ItemGroup>
-    <PackageReference Include="CCd.IOs" Version="6.2601.0" />
+    <PackageReference Include="CCd.IOs" Version="10.2603.0" />
     <PackageReference Include="glTF2Loader" Version="1.1.4-alpha" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
-    <PackageReference Include="Xbim.Essentials" Version="6.0.563" />
+    <PackageReference Include="Xbim.Essentials" Version="6.0.578" />
     <PackageReference Include="Xbim.Geometry" Version="5.1.820" />
     <PackageReference Include="Xbim.Properties" Version="6.0.11" />
   </ItemGroup>
